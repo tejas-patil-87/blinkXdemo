@@ -1,0 +1,3 @@
+{
+    "include": ["./node_modules/cypress", "cypress/**/*.js", "cypress/.Test/01_footer.demo.main.spec copy.js", "cypress/.Test/02_lead_Form.main.spec copy 2.js", "cypress/.Test/02_lead_Form.main.spec copy.js"]
+  }

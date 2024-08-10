@@ -1,0 +1,808 @@
+{
+  "footerNameAndId": [
+    { "id": "ngb-accordion-item-0", "name": "Investment Products" },
+    { "id": "ngb-accordion-item-2", "name": "Stocks" },
+    { "id": "ngb-accordion-item-1", "name": "IPO" },
+    { "id": "ngb-accordion-item-3", "name": "Calculators" },
+    { "id": "ngb-accordion-item-4", "name": "Knowledgebase" },
+    { "id": "ngb-accordion-item-5", "name": "Resources" },
+    { "id": "ngb-accordion-item-5", "name": "About Us" }
+  ],
+  "accordionData":[
+    {
+      "id": "Investment Products~Mutual Funds~",
+      "text": "Mutual Funds",
+      "href": "/mutual-funds"
+    },
+    {
+      "id": "Investment Products~Derivatives~",
+      "text": "Derivatives",
+      "href": "/derivatives"
+    },
+    {
+      "id": "Investment Products~Equity~",
+      "text": "Equity",
+      "href": "/equity-trading"
+    },
+    {
+      "id": "Investment Products~Margin Funding~",
+      "text": "Margin Funding",
+      "href": "/margin-trading"
+    },
+    {
+      "id": "Investment Products~Bonds~",
+      "text": "Bonds",
+      "href": "/bonds"
+    },
+    {
+      "id": "Investment Products~Zero Brokerage Trading Account~",
+      "text": "Zero Brokerage Trading Account",
+      "href": "/zero-brokerage-trading-account"
+    },
+    {
+      "id": "Stocks~Intraday Stocks~",
+      "text": "Intraday Stocks",
+      "href": "/intraday-stocks"
+    },
+    {
+      "id": "Stocks~Breakout Stocks~",
+      "text": "Breakout Stocks",
+      "href": "/breakout-stocks"
+    },
+    {
+      "id": "Stocks~52 Week High Breakout Stocks~",
+      "text": "52 Week High Breakout Stocks",
+      "href": "/52-week-high-breakout-stocks"
+    },
+    {
+      "id": "Stocks~Weekly Breakout Stocks~",
+      "text": "Weekly Breakout Stocks",
+      "href": "/weekly-breakout-stocks"
+    },
+    {
+      "id": "Stocks~Positive Breakout Stocks~",
+      "text": "Positive Breakout Stocks",
+      "href": "/positive-breakout-stocks"
+    },
+    {
+      "id": "Stocks~Breakout Stocks For Tomorrow~",
+      "text": "Breakout Stocks For Tomorrow",
+      "href": "/breakout-stocks-for-tomorrow"
+    },
+    {
+      "id": "Stocks~200 EMA Breakout Stocks~",
+      "text": "200 EMA Breakout Stocks",
+      "href": "/200-ema-breakout-stocks"
+    },
+    {
+      "id": "Stocks~Monthly Breakout Stocks~",
+      "text": "Monthly Breakout Stocks",
+      "href": "/monthly-breakout-stocks"
+    },
+    {
+      "id": "Stocks~15 Minutes Breakout Stocks~",
+      "text": "15 Minutes Breakout Stocks",
+      "href": "/15-minutes-breakout-stocks"
+    },
+    {
+      "id": "Stocks~Multi Year Breakout Stocks~",
+      "text": "Multi Year Breakout Stocks",
+      "href": "/multi-year-breakout-stocks"
+    },
+    {
+      "id": "Stocks~200 Day Moving Average Breakout Stocks~",
+      "text": "200 Day Moving Average Breakout Stocks",
+      "href": "/200-day-moving-average-breakout-stocks"
+    },
+    {
+      "id": "IPO~Current IPO~",
+      "text": "Current IPO",
+      "href": "/ipo/current-ipo"
+    },
+    {
+      "id": "IPO~Upcoming IPOs~",
+      "text": "Upcoming IPOs",
+      "href": "/ipo/upcoming-ipo"
+    },
+    {
+      "id": "IPO~Closed IPO~",
+      "text": "Closed IPO",
+      "href": "/ipo/closed-ipo"
+    },
+    {
+      "id": "IPO~IPO Allotment Status~",
+      "text": "IPO Allotment Status",
+      "href": "/ipo/ipo-allotment-status"
+    },
+    {
+      "id": "Calculators~Brokerage Calculator~",
+      "text": "Brokerage Calculator",
+      "href": "/calculators/brokerage-calculator"
+    },
+    {
+      "id": "Calculators~SIP Calculator~",
+      "text": "SIP Calculator",
+      "href": "/calculators/sip-calculator"
+    },
+    {
+      "id": "Calculators~EMI Calculator~",
+      "text": "EMI Calculator",
+      "href": "/calculators/emi-calculator"
+    },
+    {
+      "id": "Calculators~FD Calculator~",
+      "text": "FD Calculator",
+      "href": "/calculators/fd-calculator"
+    },
+    {
+      "id": "Calculators~Mutual Fund Calculator~",
+      "text": "Mutual Fund Calculator",
+      "href": "/calculators/mutual-fund-calculator"
+    },
+    {
+      "id": "Calculators~PPF Calculator~",
+      "text": "PPF Calculator",
+      "href": "/calculators/ppf-calculator"
+    },
+    {
+      "id": "Calculators~Margin Calculator~",
+      "text": "Margin Calculator",
+      "href": "/calculators/margin-calculator"
+    },
+    {
+      "id": "Knowledgebase~Demat Account~",
+      "text": "Demat Account",
+      "href": "/en/knowledge-base/demat-account"
+    },
+    {
+      "id": "Demat Account~What is demat account~",
+      "text": "What is demat account",
+      "href": "/en/knowledge-base/demat-account/what-is-demat-account"
+    },
+    {
+      "id": "Demat Account~What is dematerilization~",
+      "text": "What is dematerilization",
+      "href": "/en/knowledge-base/demat-account/what-is-dematerialisation"
+    },
+    {
+      "id": "Demat Account~Wow to open a demat account~",
+      "text": "Wow to open a demat account",
+      "href": "/en/knowledge-base/demat-account/how-to-open-demat-account"
+    },
+    {
+      "id": "Demat Account~Bo Id~",
+      "text": "Bo Id",
+      "href": "/en/knowledge-base/demat-account/what-is-bo-id"
+    },
+    {
+      "id": "Demat Account~DP Charges~",
+      "text": "DP Charges",
+      "href": "/en/knowledge-base/demat-account/what-are-dp-charges"
+    },
+    {
+      "id": "Knowledgebase~Fixed Deposit~",
+      "text": "Fixed Deposit",
+      "href": "/en/knowledge-base/fixed-deposit"
+    },
+    {
+      "id": "Fixed Deposit~Tax on fixed deposit~",
+      "text": "Tax on fixed deposit",
+      "href": "/en/knowledge-base/fixed-deposit/is-fixed-deposit-interest-taxable-in-india"
+    },
+    {
+      "id": "Fixed Deposit~Difference between fd and rd~",
+      "text": "Difference between fd and rd",
+      "href": "/en/knowledge-base/fixed-deposit/difference-between-fixed-deposit-and-recurring-deposit"
+    },
+    {
+      "id": "Fixed Deposit~Income tax on fd interest~",
+      "text": "Income tax on fd interest",
+      "href": "/en/knowledge-base/fixed-deposit/is-fixed-deposit-interest-taxable-in-india"
+    },
+    {
+      "id": "Fixed Deposit~Non cumulative meaning~",
+      "text": "Non cumulative meaning",
+      "href": "/en/knowledge-base/fixed-deposit/difference-between-cumulative-and-non-cumulative-fixed-deposit"
+    },
+    {
+      "id": "Fixed Deposit~Disadvantages of fixed deposit~",
+      "text": "Disadvantages of fixed deposit",
+      "href": "/en/knowledge-base/fixed-deposit/pros-and-cons-of-investing-in-a-fixed-deposit"
+    },
+    {
+      "id": "Knowledgebase~Equity~",
+      "text": "Equity",
+      "href": "/en/knowledge-base/equity"
+    },
+    {
+      "id": "Equity~Equity shares meaning~",
+      "text": "Equity shares meaning",
+      "href": "/en/knowledge-base/equity/what-are-equity-shares"
+    },
+    {
+      "id": "Equity~Features of equity shares~",
+      "text": "Features of equity shares",
+      "href": "/en/knowledge-base/equity/equity-share-capital-features-of-equity-share-capital"
+    },
+    {
+      "id": "Equity~Types of equity market~",
+      "text": "Types of equity market",
+      "href": "/en/knowledge-base/equity/benefits-and-types-of-equity-market"
+    },
+    {
+      "id": "Equity~Margin equity~",
+      "text": "Margin equity",
+      "href": "/en/knowledge-base/equity/what-is-the-difference-between-equity-and-margin"
+    },
+    {
+      "id": "Equity~Difference Between Equity and Margin~",
+      "text": "Difference Between Equity and Margin",
+      "href": "/en/knowledge-base/equity/what-is-the-difference-between-equity-and-margin"
+    },
+    {
+      "id": "Knowledgebase~Mutual Funds~",
+      "text": "Mutual Funds",
+      "href": "/en/knowledge-base/mutual-fund"
+    },
+    {
+      "id": "Mutual Funds~How to invest in mutual funds~",
+      "text": "How to invest in mutual funds",
+      "href": "/en/knowledge-base/mutual-fund/all-about-investing-in-mutual-funds"
+    },
+    {
+      "id": "Mutual Funds~Types of mutual funds~",
+      "text": "Types of mutual funds",
+      "href": "/en/knowledge-base/mutual-fund/what-are-the-different-types-of-mutual-funds"
+    },
+    {
+      "id": "Mutual Funds~Advantages of mutual funds~",
+      "text": "Advantages of mutual funds",
+      "href": "/en/knowledge-base/mutual-fund/advantages-and-disadvantages-of-investing-in-mutual-fund"
+    },
+    {
+      "id": "Mutual Funds~What is SIP and its advantages~",
+      "text": "What is SIP and its advantages",
+      "href": "/en/knowledge-base/mutual-fund/what-is-sip-and-its-advantages"
+    },
+    {
+      "id": "Mutual Funds~Open Ended VS Close Ended Mutual Fund~",
+      "text": "Open Ended VS Close Ended Mutual Fund",
+      "href": "/en/knowledge-base/mutual-fund/difference-between-open-ended-and-close-ended-mutual-fund"
+    },
+    {
+      "id": "Knowledgebase~Share Market~",
+      "text": "Share Market",
+      "href": "/en/knowledge-base/share-market"
+    },
+    {
+      "id": "Share Market~Share market timings in india~",
+      "text": "Share market timings in india",
+      "href": "/en/knowledge-base/share-market/share-market-timings-in-india"
+    },
+    {
+      "id": "Share Market~What is Share Market?~",
+      "text": "What is Share Market?",
+      "href": "/en/knowledge-base/share-market/what-is-the-share-market"
+    },
+    {
+      "id": "Share Market~Difference between primary and secondary market~",
+      "text": "Difference between primary and secondary market",
+      "href": "/en/knowledge-base/share-market/what-is-the-main-difference-between-a-primary-market-and-a-secondary-market"
+    },
+    {
+      "id": "Share Market~Ex dividend date~",
+      "text": "Ex dividend date",
+      "href": "/en/knowledge-base/share-market/what-is-the-ex-date-in-the-dividend-in-india"
+    },
+    {
+      "id": "Share Market~Notional meaning~",
+      "text": "Notional meaning",
+      "href": "/en/knowledge-base/share-market/what-is-notional-value-meaning-formula-uses-and-importance"
+    },
+    {
+      "id": "Knowledgebase~IPO~",
+      "text": "IPO",
+      "href": "/en/knowledge-base/ipo"
+    },
+    {
+      "id": "IPO~IPO full form~",
+      "text": "IPO full form",
+      "href": "/en/knowledge-base/ipo/what-is-an-initial-public-offer-ipo"
+    },
+    {
+      "id": "IPO~FPO meaning~",
+      "text": "FPO meaning",
+      "href": "/en/knowledge-base/ipo/what-is-fpo"
+    },
+    {
+      "id": "IPO~What is FPO~",
+      "text": "What is FPO",
+      "href": "/en/knowledge-base/ipo/what-is-fpo"
+    },
+    {
+      "id": "IPO~FPO vs IPO~",
+      "text": "FPO vs IPO",
+      "href": "/en/knowledge-base/ipo/difference-between-ipo-fpo"
+    },
+    {
+      "id": "IPO~IPO types~",
+      "text": "IPO types",
+      "href": "/en/knowledge-base/ipo/what-are-the-types-of-ipos"
+    },
+    {
+      "id": "Knowledgebase~Bonds~",
+      "text": "Bonds",
+      "href": "/en/knowledge-base/bonds"
+    },
+    {
+      "id": "Bonds~Types of bonds~",
+      "text": "Types of bonds",
+      "href": "/en/knowledge-base/bonds/what-are-the-different-types-of-bonds"
+    },
+    {
+      "id": "Bonds~Difference Between Bonds and Debentures~",
+      "text": "Difference Between Bonds and Debentures",
+      "href": "/en/knowledge-base/bonds/difference-between-bonds-and-debentures"
+    },
+    {
+      "id": "Bonds~Pros and Cons of Bond Investment~",
+      "text": "Pros and Cons of Bond Investment",
+      "href": "/en/knowledge-base/bonds/what-are-the-pros-and-cons-of-bond-investment"
+    },
+    {
+      "id": "Bonds~Top Five Bond Investment Strategies~",
+      "text": "Top Five Bond Investment Strategies",
+      "href": "/en/knowledge-base/bonds/top-five-bond-investment-strategies"
+    },
+    {
+      "id": "Bonds~Are Corporate Bonds a Good Investment~",
+      "text": "Are Corporate Bonds a Good Investment",
+      "href": "/en/knowledge-base/bonds/are-corporate-bonds-a-good-investment"
+    },
+    {
+      "id": "Knowledgebase~Currency Trading~",
+      "text": "Currency Trading",
+      "href": "/en/knowledge-base/currency-trading"
+    },
+    {
+      "id": "Currency Trading~What is exchange Rate~",
+      "text": "What is exchange Rate",
+      "href": "/en/knowledge-base/currency-trading/what-is-the-exchange-rate"
+    },
+    {
+      "id": "Currency Trading~Forex Market Timing~",
+      "text": "Forex Market Timing",
+      "href": "/en/knowledge-base/currency-trading/a-guide-to-forex-market-timing"
+    },
+    {
+      "id": "Currency Trading~How to Trade in Currency~",
+      "text": "How to Trade in Currency",
+      "href": "/en/knowledge-base/currency-trading/how-to-trade-currency"
+    },
+    {
+      "id": "Currency Trading~What is Currency Trading~",
+      "text": "What is Currency Trading",
+      "href": "/en/knowledge-base/currency-trading/what-is-currency-trading"
+    },
+    {
+      "id": "Knowledgebase~Intraday Trading~",
+      "text": "Intraday Trading",
+      "href": "/en/knowledge-base/intraday-trading"
+    },
+    {
+      "id": "Intraday Trading~What is Intraday Trading~",
+      "text": "What is Intraday Trading",
+      "href": "/en/knowledge-base/intraday-trading/what-is-intraday-trading"
+    },
+    {
+      "id": "Intraday Trading~Intraday Trading Strategies~",
+      "text": "Intraday Trading Strategies",
+      "href": "/en/knowledge-base/intraday-trading/intraday-trading-strategies"
+    },
+    {
+      "id": "Intraday Trading~Intraday trading chart patterns~",
+      "text": "Intraday trading chart patterns",
+      "href": "/en/knowledge-base/intraday-trading/intraday-chart-patterns"
+    },
+    {
+      "id": "Intraday Trading~Intraday trading rules~",
+      "text": "Intraday trading rules",
+      "href": "/en/knowledge-base/intraday-trading/intraday-trading-rules"
+    },
+    {
+      "id": "Intraday Trading~Intraday trading for beginners~",
+      "text": "Intraday trading for beginners",
+      "href": "/en/knowledge-base/intraday-trading/intraday-trading-tips-for-beginners"
+    },
+    {
+      "id": "Knowledgebase~Online Share Trading~",
+      "text": "Online Share Trading",
+      "href": "/en/knowledge-base/online-share-trading"
+    },
+    {
+      "id": "Online Share Trading~Fibonacci Retracement~",
+      "text": "Fibonacci Retracement",
+      "href": "/en/knowledge-base/online-share-trading/fibonacci-retracement-in-stock-market"
+    },
+    {
+      "id": "Online Share Trading~What is MTM~",
+      "text": "What is MTM",
+      "href": "/en/knowledge-base/online-share-trading/what-is-mtm"
+    },
+    {
+      "id": "Online Share Trading~Ratio analysis meaning~",
+      "text": "Ratio analysis meaning",
+      "href": "/en/knowledge-base/online-share-trading/what-is-ratio-analysis"
+    },
+    {
+      "id": "Online Share Trading~Marubozu candle~",
+      "text": "Marubozu candle",
+      "href": "/en/knowledge-base/online-share-trading/what-is-marubozu-candlestick-pattern"
+    },
+    {
+      "id": "Online Share Trading~Brokerage charges for delivery trading~",
+      "text": "Brokerage charges for delivery trading",
+      "href": "/en/knowledge-base/online-share-trading/brokerage-charges-for-delivery-trading"
+    },
+    {
+      "id": "Knowledgebase~Trading Account~",
+      "text": "Trading Account",
+      "href": "/en/knowledge-base/trading-account"
+    },
+    {
+      "id": "Trading Account~What is a trading account~",
+      "text": "What is a trading account",
+      "href": "/en/knowledge-base/trading-account/what-is-a-trading-account"
+    },
+    {
+      "id": "Trading Account~Difference between demat and trading account~",
+      "text": "Difference between demat and trading account",
+      "href": "/en/knowledge-base/demat-account/difference-between-demat-account-and-trading-account"
+    },
+    {
+      "id": "Trading Account~How to open trading account~",
+      "text": "How to open trading account",
+      "href": "/open-demat-account"
+    },
+    {
+      "id": "Trading Account~Credit balance of trading account~",
+      "text": "Credit balance of trading account",
+      "href": "/en/knowledge-base/trading-account/what-is-the-meaning-of-credit-balance-of-trading-account"
+    },
+    {
+      "id": "Trading Account~Features of trading account~",
+      "text": "Features of trading account",
+      "href": "/en/knowledge-base/trading-account/features-of-trading-account"
+    },
+    {
+      "id": "Knowledgebase~Derivatives~",
+      "text": "Derivatives",
+      "href": "/en/knowledge-base/derivatives"
+    },
+    {
+      "id": "Derivatives~Option Trading~",
+      "text": "Option Trading",
+      "href": "/en/knowledge-base/online-share-trading/what-is-option-trading"
+    },
+    {
+      "id": "Derivatives~Types of Derivatives~",
+      "text": "Types of Derivatives",
+      "href": "/en/knowledge-base/derivatives/what-are-the-types-of-derivatives"
+    },
+    {
+      "id": "Derivatives~Difference between forward and future contract~",
+      "text": "Difference between forward and future contract",
+      "href": "/en/knowledge-base/derivatives/key-difference-between-forward-and-future-contract-in-derivatives"
+    },
+    {
+      "id": "Derivatives~Derivatives in stock market~",
+      "text": "Derivatives in stock market",
+      "href": "/en/knowledge-base/derivatives/what-are-derivatives-in-share-markets"
+    },
+    {
+      "id": "Derivatives~What are futures~",
+      "text": "What are futures",
+      "href": "/en/knowledge-base/derivatives/what-is-futures-trading-in-derivatives"
+    },
+    {
+      "id": "Knowledgebase~Commodities~",
+      "text": "Commodities",
+      "href": "/en/knowledge-base/commodities"
+    },
+    {
+      "id": "Commodities~What is Commodity~",
+      "text": "What is Commodity",
+      "href": "/en/knowledge-base/trading-account/what-is-commodity-trading"
+    },
+    {
+      "id": "Commodities~Commodity Market~",
+      "text": "Commodity Market",
+      "href": "/en/knowledge-base/trading-account/what-is-the-commodity-market"
+    },
+    {
+      "id": "Commodities~Commodity Market types~",
+      "text": "Commodity Market types",
+      "href": "/en/knowledge-base/commodities/what-are-the-types-of-commodities"
+    },
+    {
+      "id": "Commodities~How Trade in commodity market~",
+      "text": "How Trade in commodity market",
+      "href": "/en/knowledge-base/commodities/how-to-start-trading-commodities"
+    },
+    {
+      "id": "Commodities~Equity vs Commodity~",
+      "text": "Equity vs Commodity",
+      "href": "/en/knowledge-base/commodities/what-is-the-difference-between-equity-and-commodity"
+    },
+    {
+      "id": "Knowledgebase~Algorithmic Trading~",
+      "text": "Algorithmic Trading",
+      "href": "/en/knowledge-base/algorithmic-trading"
+    },
+    {
+      "id": "Algorithmic Trading~What is Algo Trading & its Strategies~",
+      "text": "What is Algo Trading & its Strategies",
+      "href": "/en/knowledge-base/algorithmic-trading/what-is-algo-trading"
+    },
+    {
+      "id": "Knowledgebase~Margin Trading~",
+      "text": "Margin Trading",
+      "href": "/en/knowledge-base/margin-trading"
+    },
+    {
+      "id": "Margin Trading~What Is Margin Trading~",
+      "text": "What Is Margin Trading",
+      "href": "/en/knowledge-base/margin-trading/what-is-margin-trading-in-forex-market"
+    },
+    {
+      "id": "Margin Trading~What is MTF Pledge?~",
+      "text": "What is MTF Pledge?",
+      "href": "/en/knowledge-base/margin-trading/what-is-margin-trading-facility-pledge"
+    },
+    {
+      "id": "Margin Trading~Who are Margin Traders?~",
+      "text": "Who are Margin Traders?",
+      "href": "/en/knowledge-base/margin-trading/who-are-margin-traders"
+    },
+    {
+      "id": "Margin Trading~Value stocks vs Growth stocks~",
+      "text": "Value stocks vs Growth stocks",
+      "href": "/en/knowledge-base/margin-trading/difference-between-value-stocks-vs-growth-stocks"
+    },
+    {
+      "id": "Margin Trading~What is Peak Margin?~",
+      "text": "What is Peak Margin?",
+      "href": "/en/knowledge-base/margin-trading/what-is-peak-margin"
+    },
+    {
+      "id": "Knowledgebase~Budget~",
+      "text": "Budget",
+      "href": "/en/knowledge-base/budget"
+    },
+    {
+      "id": "Budget~What is Union Budget?~",
+      "text": "What is Union Budget?",
+      "href": "/en/knowledge-base/budget/what-is-union-budget"
+    },
+    {
+      "id": "Budget~Budgetary Process in India~",
+      "text": "Budgetary Process in India",
+      "href": "/en/knowledge-base/budget/understanding-budgetary-process-in-india"
+    },
+    {
+      "id": "Budget~Who Prepares the Annual Budget?~",
+      "text": "Who Prepares the Annual Budget?",
+      "href": "/en/knowledge-base/budget/who-prepares-the-annual-budget"
+    },
+    {
+      "id": "Budget~What to Expect in the Union Budget 2024~",
+      "text": "What to Expect in the Union Budget 2024",
+      "href": "/en/knowledge-base/budget/what-to-expect-in-the-union-budget"
+    },
+    {
+      "id": "Resources~FII and DII~",
+      "text": "FII and DII",
+      "href": "/fii-dii-activity"
+    },
+    {
+      "id": "Resources~VWAP~",
+      "text": "VWAP",
+      "href": "/vwap"
+    },
+    {
+      "id": "Resources~Put Call Ratio~",
+      "text": "Put Call Ratio",
+      "href": "/put-call-ratio"
+    },
+    {
+      "id": "Resources~Blogs~",
+      "text": "Blogs",
+      "href": "/blogs"
+    },
+    {
+      "id": "Resources~Web Stories~",
+      "text": "Web Stories",
+      "href": "/web-stories"
+    },
+    {
+      "id": "Resources~Share Market Today~",
+      "text": "Share Market Today",
+      "href": "/share-market"
+    },
+    {
+      "id": "Resources~Stock Market Holidays~",
+      "text": "Stock Market Holidays",
+      "href": "/stock-market-holidays"
+    },
+    {
+      "id": "Resources~Stock Market Companies List~",
+      "text": "Stock Market Companies List",
+      "href": "/stock-market-companies-list"
+    },
+    {
+      "id": "Resources~Indices~",
+      "text": "Indices",
+      "href": "/indices"
+    },
+    {
+      "id": "Resources~BlinkX Insights~",
+      "text": "BlinkX Insights",
+      "href": "/insights"
+    },
+    {
+      "id": "Resources~Sitemap~",
+      "text": "Sitemap",
+      "href": "/sitemap"
+    },
+    {
+      "id": "Resources~Charges~",
+      "text": "Charges",
+      "href": "/charges"
+    },
+    {
+      "id": "About Us~About BlinkX~",
+      "text": "About BlinkX",
+      "href": "/about-us"
+    },
+    {
+      "id": "About Us~Why BlinkX~",
+      "text": "Why BlinkX",
+      "href": "/why-blinkX"
+    },
+    {
+      "id": "About Us~Trading App~",
+      "text": "Trading App",
+      "href": "/trading-app"
+    },
+    {
+      "id": "About Us~Regulatory Information~",
+      "text": "Regulatory Information",
+      "href": "/regulatory-info"
+    },
+    {
+      "id": "About Us~Announcements~",
+      "text": "Announcements",
+      "href": "/announcements"
+    }
+  ],
+  "topStocksList": [
+    { "text": "Bajaj Auto Share Price", "href": "/stocks/bajaj-auto-ltd" },
+    { "text": "Coal India Share Price", "href": "/stocks/coal-india-ltd" },
+    { "text": "Britannia Industries Share Price", "href": "/stocks/britannia-industries-ltd" },
+    { "text": "Grasim Industries Share Price", "href": "/stocks/grasim-industries-ltd" },
+    { "text": "Bharat Petroleum Corporation Share Price", "href": "/stocks/bharat-petroleum-corporation-ltd" },
+    { "text": "HCL Technologies Share Price", "href": "/stocks/hcl-technologies-ltd" },
+    { "text": "Hero Motocorp Share Price", "href": "/stocks/hero-motocorp-ltd" },
+    { "text": "Hindalco Industries Share Price", "href": "/stocks/hindalco-industries-ltd" },
+    { "text": "Hindustan Unilever Share Price", "href": "/stocks/hindustan-unilever-ltd" },
+    { "text": "ITC Share Price", "href": "/stocks/itc-ltd" },
+    { "text": "Infosys Share Price", "href": "/stocks/infosys-ltd" },
+    { "text": "JSW Steel Share Price", "href": "/stocks/jsw-steel-ltd" },
+    { "text": "NTPC Share Price", "href": "/stocks/ntpc-ltd" },
+    { "text": "Sun Pharma Share Price", "href": "/stocks/sun-pharmaceuticals-industries-ltd" },
+    { "text": "Power Grid Corporation Of India Share Price", "href": "/stocks/power-grid-corporation-of-india-ltd" },
+    { "text": "Tata Consultancy Services Share Price", "href": "/stocks/tata-consultancy-services-ltd" },
+    { "text": "Tata Steel Share Price", "href": "/stocks/tata-steel-ltd" },
+    { "text": "Tech Mahindra Share Price", "href": "/stocks/tech-mahindra-ltd" },
+    { "text": "UPL Share Price", "href": "/stocks/upl-ltd" },
+    { "text": "Wipro Share Price", "href": "/stocks/wipro-ltd" }
+  ],
+  "topIndicesList": [
+    {
+      "text": "Nifty 50",
+      "href": "/indices/nifty-50"
+    },
+    {
+      "text": "Nifty Bank",
+      "href": "/indices/nifty-bank"
+    },
+    {
+      "text": "Nifty Midcap 100",
+      "href": "/indices/nifty-midcap-100"
+    },
+    {
+      "text": "Nifty Next 50",
+      "href": "/indices/nifty-next-50"
+    },
+    {
+      "text": "Nifty 100",
+      "href": "/indices/nifty-100"
+    },
+    {
+      "text": "Nifty 200",
+      "href": "/indices/nifty-200"
+    },
+    {
+      "text": "Nifty 500",
+      "href": "/indices/nifty-500"
+    },
+    {
+      "text": "Nifty Smallcap 100",
+      "href": "/indices/nifty-smallcap-100"
+    },
+    {
+      "text": "Nifty Midcap 50",
+      "href": "/indices/nifty-midcap-50"
+    },
+
+    {
+      "text": "Gift Nifty",
+      "href": "/indices/gift-nifty"
+    },
+    {
+      "text": "Nikkei",
+      "href": "/indices/nikkei"
+    },
+    {
+      "text": "Hang Seng",
+      "href": "/indices/hang-seng"
+    },
+    {
+      "text": "Taiwan Weighted",
+      "href": "/indices/taiwan-weighted"
+    },
+    {
+      "text": "FTSE",
+      "href": "/indices/ftse"
+    },
+    {
+      "text": "CAC",
+      "href": "/indices/cac"
+    },
+    {
+      "text": "DAX",
+      "href": "/indices/dax"
+    },
+    {
+      "text": "Dow Jones",
+      "href": "/indices/dow-jones"
+    },
+    {
+      "text": "S&P 500",
+      "href": "/indices/sp-500"
+    },
+    {
+      "text": "NASDAQ",
+      "href": "/indices/nasdaq"
+    },
+    {
+      "text": "Dow Jones Futures",
+      "href": "/indices/dow-jones-futures"
+    },
+    { "text": "SSE Composite Index", "href": "/indices/sse-composite-index" },
+    {
+      "text": "S&P/ASX 200",
+      "href": "/indices/sp-asx-200"
+    },
+    { "text": "Nifty Midcap 100", "href": "/indices/nifty-midcap-100" },
+    { "text": "India Vix", "href": "/indices/india-vix" },
+
+    { "text": "Nifty MidSmall Healthcare", "href": "/indices/nifty-midsmall-healthcare" },
+    { "text": "Nifty Tata Group 25% Cap", "href": "/indices/nifty-tata-group-25-cap" },
+    {
+      "text": "Nifty 500 Multicap India Manufacturing 50-30-20",
+      "href": "/indices/nifty500-multicap-india-manufacturing-50-30-20"
+    },
+    { "text": "Nifty 500 Multicap Infrastructure 50-30-20", "href": "/indices/nifty500-multicap-infrastructure-50-30-20" }
+  ]
+}

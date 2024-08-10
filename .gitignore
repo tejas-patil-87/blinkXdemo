@@ -1,0 +1,18 @@
+# Ignore Cypress directories
+cypress/API_Spec/
+cypress/company_Page/
+cypress/downloads/
+cypress/logs/
+cypress/reports/
+cypress/screenshots/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .prettierrc file
+_prettierrc
+
+# Ignore .vscode folder
+_vscode
+
+highcharts.txt

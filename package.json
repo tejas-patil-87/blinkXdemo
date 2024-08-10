@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "cypress-dark": "^1.8.3",
+    "cypress-failed-log": "^2.10.0",
+    "cypress-log-filter": "^1.0.5",
+    "cypress-log-to-output": "^1.1.2",
+    "fs": "^0.0.1-security",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0",
+    "nodemailer": "^6.9.8"
+  },
+  "dependencies": {
+    "archiver": "^6.0.1"
+  },
+  "scripts": {
+    "clean-reports": "node delete-report.js",
+    "open-uat": "npx cypress open",
+    "open-beta": "npx cypress open  --env UAT=beta. ",
+    "open-prod": "npx cypress open  --env UAT=",
+    "run-uat": "npx cypress run --browser chrome ",
+    "run-beta": "npx cypress run --browser chrome --env UAT=beta.",
+    "run-prod": "npx cypress run --browser chrome --env UAT=",
+    "send-report-email": "node send_report_email_main.js",
+    "run-test-record": "npx cypress run --browser chrome --record --key 256f7491-2143-4a89-b9ae-102659686b72",
+    "merge-test-reports": "npx mochawesome-merge cypress/reports/mochawesome/*.json > cypress/reports/blinkX-report.json",
+    "generate-final-report": "npx marge cypress/reports/blinkX-report.json --reportDir ./ --inline",
+    "create-error-csv": "node createErrorCSV.js",
+    "merge-and-generate-report": "npm run merge-test-reports && npm run generate-final-report && npm run create-error-csv",
+    "UAT": "npm run clean-reports && npm run run-uat",
+    "BETA": "npm run clean-reports && npm run run-beta",
+    "PROD": "npm run clean-reports && npm run run-prod",
+    "merge-and-send-report-email": "npm run merge-and-generate-report && npm run send-report-email"
+  }
+}

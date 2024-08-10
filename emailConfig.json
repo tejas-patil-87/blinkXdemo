@@ -1,0 +1,15 @@
+{
+  "senderEmailAddresser": "update@blinkx.in",
+  "recipientEmailAddresser": "praful.shukla@blinkx.in",
+  "ccList": "tejas.we3tech@blinkx.in",
+  "subject": "Automated Test Execution Report For blinkx",
+  "transporter": {
+    "host": "master.sendclean.net",
+    "port": 587,
+    "secure": false,
+    "auth": {
+      "user": "smtp51291381",
+      "pass": "iftuwQlZTG"
+    }
+  }
+}

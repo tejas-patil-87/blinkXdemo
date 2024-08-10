@@ -1,0 +1,70 @@
+{
+  "title": "Open Free Demat Account Online*",
+  "brokerageTitle": "Save nearly Rs. 50,000 of brokerage in just 6 months!",
+  "tableHeader": ["General", "Brokerage - Equity / Cash", "Brokerage - Futures & Options", "Brokerage - Currency", "Others"],
+  "tableDataEntries": [
+    "Account Opening",
+    "Account Maintenance Charges (AMC)",
+    "Delivery Order",
+    "Intraday Order",
+    "IPO",
+    "MTF (e - Margin)",
+    "Corporate Actions (Buyback / OFS)",
+    "Derivative Futures Intraday",
+    "Derivative Futures Carry Forward",
+    "Derivative Options Intraday",
+    "Derivative Options Carry Forward",
+    "Currency Futures Intraday",
+    "Currency Futures Carry Forward",
+    "Currency Options Intraday",
+    "Currency Options Carry Forward",
+    "Call & Trade Charges",
+    "Fund Transfer Charges",
+    "Auto - Square Off Charges",
+    "Research Subscription Charges"
+  ],
+  "items": [
+    { "id": "#rewind-item0", "title": "Paperless Holding", "text": "With a Demat account" },
+    { "id": "#rewind-item1", "title": "Safe and Secure", "text": "Demat accounts provide" },
+    { "id": "#rewind-item2", "title": "Easy Accessibility", "text": "You can access your Demat account" },
+    { "id": "#rewind-item3", "title": "Faster and Efficient Transactions", "text": "Buying and selling securities through" },
+    { "id": "#rewind-item4", "title": "Cost-Effective", "text": "While opening an online Demat account" },
+    { "id": "#rewind-item5", "title": "Simple Transfer", "text": "Transferring securities from one Demat account" },
+
+    { "id": "#rewind-item6", "title": "Single point of access", "text": "You can hold various types of securities" }
+  ],
+  "steps": [
+    { "number": "STEP 1", "description": "Enter & verify your mobile number and email ID" },
+    { "number": "STEP 2", "description": "Enter PAN & link your bank account" },
+    { "number": "STEP 3", "description": "Select plan & eSign" },
+    { "number": "STEP 4", "description": "Upload a selfie & signature" },
+    { "number": "STEP 5", "description": "Submit documents via Digi locker" }
+  ],
+  "charges": ["Delivery brokerage", "NSE Future & Options", "Intraday", "Currency"],
+  "testimonials": [
+    {
+      "name": "Ritu Bhardwaj",
+      "location": "Mumbai",
+      "feedback": "The ui is very cool making it easy for beginners to use this app. it's theme adds to the appeal, and the stability makes it an excellent choice."
+    },
+    {
+      "name": "Ishaank Jain",
+      "location": "Delhi",
+      "feedback": "Great Application for all the traders and investors out there. As well as the customer support is really timed and prompt. They also provide good recommendations under the research section inside the application which is really helpful."
+    },
+    {
+      "name": "Mohit Goswami",
+      "location": "Mangalore",
+      "feedback": "The app is really amazing, and with the order management functionality, The portfolio tracking system allows me to view all my investments in one place. In our busy lives, trading becomes easy with these features."
+    }
+  ],
+  "expectedProducts": [
+    { "title": "IPO", "url": "/ipo" },
+    { "title": "F&O", "url": "/en/knowledge-base/futures-and-options-trading" },
+    { "title": "Margin Trading", "url": "/margin-trading" },
+    { "title": "Equity", "url": "/equity-trading" },
+    { "title": "Intraday Trading", "url": "/intraday-stocks" },
+    { "title": "Bonds", "url": "/bonds" },
+    { "title": "Currency", "url": "/currency-and-forex-trading" }
+  ]
+}

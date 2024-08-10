@@ -1,0 +1,41 @@
+steps:
+- name: 'node:14'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+    npm install # Install dependencies
+    npx cypress install --force # Ensure Cypress is installed
+
+# Clean reports
+- name: 'node:14'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - npm run clean-reports
+
+# Run tests based on the environment
+# You can specify the environment using a substitution variable
+- name: 'node:14'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+    if [ "$_ENV" == "UAT" ]; then
+      npm run run-uat
+    elif [ "$_ENV" == "BETA" ]; then
+      npm run run-beta
+    elif [ "$_ENV" == "PROD" ]; then
+      npm run run-prod
+    fi
+
+# Merge reports and generate final report, then send email
+- name: 'node:14'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - npm run merge-and-send-report-email
+
+timeout: '1200s' # Set a timeout for the build
+substitutions:
+  _ENV: "UAT" # Change this to BETA or PROD as needed

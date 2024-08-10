@@ -1,0 +1,176 @@
+{
+  "menuListTobe":["Investment Products","Calculators","IPO","Knowledgebase","About Us"],
+  "menuItems": [
+    {"name": "Investment Products","url": "https://blinkx.in/investment-products"},
+    {"name": "IPO","url": "https://blinkx.in/ipo"},
+    {"name": "Knowledgebase","url": "https://blinkx.in/en/knowledge-base"},
+    {"name": "Calculators","url": "https://blinkx.in/calculators"}
+  ],
+  "headerMenuToBe": [
+    "Equity",
+    "Derivatives",
+    "Bonds",
+    "Currency",
+    "WealthBasket",
+    "Brokerage Calculator",
+    "Margin Calculator",
+    "Current IPO",
+    "Upcoming IPOs",
+    "Closed IPO",
+    "Demat Account",
+    "Trading Account",
+    "Intraday Trading",
+    "IPO",
+    "Derivatives",
+    "Equity",
+    "Currency Trading",
+    "Commodities",
+    "Mutual Funds",
+    "About blinkX",
+    "Why blinkX",
+    "Why blinkX Edge",
+    "Trading App",
+    "Regulatory Information"
+  ],
+  "headerItems": [
+    {
+      "name": "Equity",
+      "url": "https://blinkx.in/equity-trading"
+    },
+    {
+      "name": "Derivatives",
+      "url": "https://blinkx.in/derivatives"
+    },
+    {
+      "name": "Bonds",
+      "url": "https://blinkx.in/bonds"
+    },
+    {
+      "name": "Currency",
+      "url": "https://blinkx.in/currency-and-forex-trading"
+    },
+    {
+      "name": "WealthBasket",
+      "url": "https://blinkx.in/wealth-basket"
+    },
+    {
+      "name": "Current IPO",
+      "url": "https://blinkx.in/ipo/current-ipo"
+    },
+    {
+      "name": "Upcoming IPOs",
+      "url": "https://blinkx.in/ipo/upcoming-ipo"
+    },
+    {
+      "name": "Closed IPO",
+      "url": "https://blinkx.in/ipo/closed-ipo"
+    },
+    {
+      "name": "Brokerage Calculator",
+      "url": "https://blinkx.in/calculators/brokerage-calculator"
+    },
+    {
+      "name": "Margin Calculator",
+      "url": "https://blinkx.in/calculators/margin-calculator"
+    },
+    {
+      "name": "Demat Account",
+      "url": "https://blinkx.in/en/knowledge-base/demat-account"
+    },
+    {
+      "name": "Trading Account",
+      "url": "https://blinkx.in/en/knowledge-base/trading-account"
+    },
+    {
+      "name": "Intraday Trading",
+      "url": "https://blinkx.in/en/knowledge-base/intraday-trading"
+    },
+    {
+      "name": "IPO",
+      "url": "https://blinkx.in/en/knowledge-base/ipo"
+    },
+    {
+      "name": "Derivatives",
+      "url": "https://blinkx.in/en/knowledge-base/derivatives"
+    },
+    {
+      "name": "Equitys",
+      "url": "https://blinkx.in/en/knowledge-base/equity"
+    },
+    {
+      "name": "Currency Trading",
+      "url": "https://blinkx.in/en/knowledge-base/currency-trading"
+    },
+    {
+      "name": "Commodities",
+      "url": "https://blinkx.in/en/knowledge-base/commodities"
+    },
+    {
+      "name": "Mutual Funds",
+      "url": "https://blinkx.in/en/knowledge-base/mutual-fund"
+    },
+    {
+      "name": "About blinkX",
+      "url": "https://blinkx.in/about-us"
+    },
+    {
+      "name": "Why blinkX",
+      "url": "https://blinkx.in/why-blinkX"
+    },
+    {
+      "name": "Why blinkX Edge",
+      "url": "https://blinkx.in/why-blinkx-edge"
+    },
+    {
+      "name": "Trading App",
+      "url": "https://blinkx.in/trading-app"
+    },
+    {
+      "name": "Regulatory Information",
+      "url": "https://blinkx.in/lp/regulatory-info"
+    }
+  ],
+  "homePage": {
+    "h1Title": "Step into the future of investing"
+  },
+  "validMobileNumber": "9001300300",
+  "KCmenuListTobe": [
+    "Futures and Options Trading",
+    "Algorithmic Trading",
+    "Margin Trading",
+    "Currency Trading",
+    "Commodities",
+    "Intraday Trading",
+    "Online Share Trading",
+    "Trading Account",
+    "US Stocks",
+    "Derivatives",
+    "Bonds",
+    "IPO",
+    "Share Market",
+    "Fixed Deposit",
+    "Equity",
+    "Mutual Fund",
+    "Demat Account"
+  ],
+  "KcItems": [
+    {
+      "name": "Futures and Options Trading","id": "tab0","url": "/en/knowledge-base/futures-and-options-trading"},
+    { "name": "Algorithmic Trading", "id": "tab1", "url": "/en/knowledge-base/algorithmic-trading" },
+    { "name": "Margin Trading", "id": "tab2", "url": "/en/knowledge-base/margin-trading" },
+    { "name": "Currency Trading", "id": "tab3", "url": "/en/knowledge-base/currency-trading" },
+    { "name": "Commodities", "id": "tab4", "url": "/en/knowledge-base/commodities" },
+    { "name": "Intraday Trading", "id": "tab5", "url": "/en/knowledge-base/intraday-trading" },
+    { "name": "Online Share Trading", "id": "tab6", "url": "/en/knowledge-base/online-share-trading" },
+    { "name": "Trading Account", "id": "tab7", "url": "/en/knowledge-base/trading-account" },
+    { "name": "US Stocks", "id": "tab8", "url": "/en/knowledge-base/us-stocks" },
+    { "name": "Derivatives", "id": "tab9", "url": "/en/knowledge-base/derivatives" },
+    { "name": "Bonds", "id": "tab10", "url": "/en/knowledge-base/bonds" },
+    { "name": "IPO", "id": "tab11", "url": "/en/knowledge-base/ipo" },
+    { "name": "Share Market", "id": "tab12", "url": "/en/knowledge-base/share-market" },
+    { "name": "Fixed Deposit", "id": "tab13", "url": "/en/knowledge-base/fixed-deposit" },
+    { "name": "Equity", "id": "tab14", "url": "/en/knowledge-base/equity" },
+    { "name": "Mutual Fund", "id": "tab15", "url": "/en/knowledge-base/mutual-fund" },
+    { "name": "Demat Account", "id": "tab16", "url": "/en/knowledge-base/demat-account" }
+  ]
+}
