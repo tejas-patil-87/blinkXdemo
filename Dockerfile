@@ -1,41 +1,17 @@
-# Use an official Node runtime as a base image
-FROM cypress/browsers
-
-# crete the folder to project will stored
-RUN mkdir /Blinkx-cypress
+# Use the Cypress image with Cypress pre-installed
+FROM cypress/included:13.13.1
 
 # Set the working directory
-WORKDIR /Blinkx-cypress
+WORKDIR /app
 
-# Copy package.json and package-lock.json to the working directory
-COPY package.json .
+# Copy the necessary files
+COPY package*.json ./
 
-# Copy package-lock.json
-COPY package-lock.json .
-
-# Copy the Cypress configuration
-COPY cypress.config.js .
-
-# Copy other necessary files
-COPY delete-report.js .
-COPY emailConfig.json .
-COPY send_report_email_main.js .
-COPY run-scripts.sh .
-
-# Install dependencies
+# Install any additional dependencies
 RUN npm install
 
-
-# Copy the application code to the working directory
+# Copy the rest of the application code
 COPY . .
 
-# # Expose the port (if needed)
-# EXPOSE 3000
-
-ENTRYPOINT ["npx","cypress","run"]
-
-# Give execute permissions to the script (if needed)
-RUN chmod +x run-scripts.sh
-
-# Run the script
-CMD [""]
+# Run the UAT tests
+CMD ["npm", "run", "UAT"]

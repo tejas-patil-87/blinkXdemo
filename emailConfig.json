@@ -1,7 +1,7 @@
 {
   "senderEmailAddresser": "update@blinkx.in",
-  "recipientEmailAddresser": "praful.shukla@blinkx.in",
-  "ccList": "tejas.we3tech@blinkx.in",
+  "recipientEmailAddresser": "tejas.we3tech@blinkx.in",
+  "ccList": "tejasvp87@gmail.com",
   "subject": "Automated Test Execution Report For blinkx",
   "transporter": {
     "host": "master.sendclean.net",
