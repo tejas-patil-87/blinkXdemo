@@ -1,10 +1,27 @@
-name: Cypress test suite using action
-on: [push]
-job:
+name: Cypress Test Suite
+
+on: 
+  push:
+    branches:
+      - main  # or specify the branch you want this to run on
+
+jobs:
   cypress-run:
-  runs-on: ubuntu-latest
-  steps:
-    -name: Checkout
-    uses: actions/checkout@v3
-    -name: cypress run
-    uses: cypress-io/github-action@v5
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # specify the version of Node.js
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Cypress Tests
+        uses: cypress-io/github-action@v5
+        with:
+          browser: chrome  # or specify the browser you want to run the tests on
